@@ -8,7 +8,8 @@ Part 2: Glossary to include these terms in a bulleted list.
 
 Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 
-**Branch: "Is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version" (Github Docs, n.d.-a)
+-Branch: "Is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version" (Github Docs, n.d.-a)
+
 **Clone:"A copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy" (Github Docs, n.d.-a)
 **Commit: "A commit, or "revision", is an individual change to a file (or set of files). When you make a commit to save your work, Git creates a unique ID (a.k.a. the "SHA" or "hash" that allows you to keep record of the specific changes committed along with who made them and when)
 **Fetch: You are adding changes from the remote repository to your local working brand without committing them. (Github Docs, n.d.-a)
