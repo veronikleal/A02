@@ -9,7 +9,6 @@ Step 1: Get **Github**
 -Create a free account and verify your email
 
 
-
 Step 2: Get **Git**
   
   -Download the latest **Git** version from https://git-scm.com/downloads 
