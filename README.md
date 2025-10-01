@@ -2,7 +2,7 @@ PART 1:  Directions on how to use Webstorm, Git, and Github
 
 The following step by step references material provided by Dr Arthur Hendela:
 
--Step 1: Get **Github**
+Step 1: Get **Github**
 
 -Go to https://github.com/ 
   
@@ -10,13 +10,13 @@ The following step by step references material provided by Dr Arthur Hendela:
 
 
 
--Step 2: Get **Git**
+Step 2: Get **Git**
   
   -Download the latest **Git** version from https://git-scm.com/downloads 
   
   -Find the file and download it. 
 
--Step 3: Download **WebStorm** (IDE) and set up
+Step 3: Download **WebStorm** (IDE) and set up
 
  -Start by downloading the **Webstorm**, by visiting https://www.jetbrains.com/webstorm/ 
 
@@ -32,7 +32,7 @@ The following step by step references material provided by Dr Arthur Hendela:
    
    -Click Okay to exit
 
- -Step 4: Get started 
+ Step 4: Get started 
   
   -Click "Create New Project" in **Webstorm**'s main page 
 
@@ -55,7 +55,7 @@ The following step by step references material provided by Dr Arthur Hendela:
    -After making changes to the project, press "**Commit**"
 
 
-  -Step 5: **Github** Repository
+  Step 5: **Github** Repository
     
   -Once it is imported into **Github**, add a readme.md file to your project
       
