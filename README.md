@@ -8,6 +8,8 @@ The following step by step references material provided by Dr Arthur Hendela:
   
 -Create a free account and verify your email
 
+
+
 -Step 2: Get **Git**
   
   -Download the latest **Git** version from https://git-scm.com/downloads 
