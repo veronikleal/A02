@@ -3,7 +3,9 @@ PART 1:  Directions on how to use Webstorm, Git, and Github
 The following step by step references material provided by Dr Arthur Hendela:
 
 -Step 1: Get **Github**
+
   -Go to https://github.com/ 
+  
   -Create a free account and verify your email
 
 -Step 2: Get **Git**
