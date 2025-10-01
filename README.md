@@ -4,39 +4,60 @@ The following step by step references material provided by Dr Arthur Hendela:
 
 -Step 1: Get **Github**
 
-  -Go to https://github.com/ 
+-Go to https://github.com/ 
   
-  -Create a free account and verify your email
+-Create a free account and verify your email
 
 -Step 2: Get **Git**
+  
   -Download the latest **Git** version from https://git-scm.com/downloads 
+  
   -Find the file and download it. 
 
 -Step 3: Download **WebStorm** (IDE) and set up
+
  -Start by downloading the **Webstorm**, by visiting https://www.jetbrains.com/webstorm/ 
+
  -Open **Webstorm** and install the operating system in your device
+
  -Set up the IDE with your **Git** account
+  
    -Click "Configure" on the bottom right
+   
    -Display the **Webstorm** settings, choose version control and select **Git**
+  
    -Click test to make sure it is connected to **Git**. The message "**Git** executed successfully" if installed correctly.
+   
    -Click Okay to exit
 
  -Step 4: Get started 
+  
   -Click "Create New Project" in **Webstorm**'s main page 
+
   -For the new project, choose a location and give it a name
+ 
   -Click create
+ 
   -Create a new file
+ 
   -Click VCS, then proceed into version control, and create **Git Repository**
+  
   -Click OK and **commit** the changes to **GIT**
-  -Add the project to **Github**:
-    -Click VCS, then import into Version Control, and Share project on **Github**
-    -Make sure you select "Share"
+  
+  -Add the project to **Github**
+  
+  -Click VCS, then import into Version Control, and Share project on **Github**:
+    
+  -Make sure you select "Share"
+   
    -After making changes to the project, press "**Commit**"
 
 
   -Step 5: **Github** Repository
-    -Once it is imported into **Github**, add a readme.md file to your project
-      -Create a new file, add some text, and **commit** the changes. 
+    
+  -Once it is imported into **Github**, add a readme.md file to your project
+      
+  -Create a new file, add some text, and **commit** the changes. 
  
 
 Part 2: Glossary to include these terms in a bulleted list.
