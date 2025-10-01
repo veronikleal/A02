@@ -3,12 +3,12 @@ PART 1:  Directions on how to use Webstorm, Git, and Github
 The following step by step references material provided by Dr Arthur Hendela:
 
 -Step 1: Get **Github**
- -Go to https://github.com/ 
- -Create a free account and verify your email
+  -Go to https://github.com/ 
+  -Create a free account and verify your email
 
 -Step 2: Get **Git**
- -Download the latest **Git** version from https://git-scm.com/downloads 
- -Find the file and download it. 
+  -Download the latest **Git** version from https://git-scm.com/downloads 
+  -Find the file and download it. 
 
 -Step 3: Download **WebStorm** (IDE) and set up
  -Start by downloading the **Webstorm**, by visiting https://www.jetbrains.com/webstorm/ 
