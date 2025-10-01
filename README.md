@@ -1,6 +1,18 @@
 PART 1: Directions on Using Webstorm.
 
-Add a step by step set of directions. Include URLs of any downloaded software. 
+Add a step by step set of directions. Include URLs of any downloaded software.
+
+-Step 1: Get Github
+ -Go to https://github.com/ 
+ -Create a free account and verify your email
+
+-Step 2: Download WebStorm (IDE)
+ -Start by downloading the Webstorm, by visiting https://www.jetbrains.com/webstorm/ 
+ -Open Webstorm and install the operating system in your device
+ -Set up the IDE with your Git account
+
+-Step 3: Set up Github
+
 
  
 
